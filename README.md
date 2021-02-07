@@ -1,2 +1,2 @@
-# python
-Collection of projects created while learning Python
+# Learning Python
+Collection of various projects created while learning Python.
